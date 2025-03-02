@@ -11,3 +11,4 @@ e dar uma olhada em meus projetos pessoas ! 🚀
 - VISUAL STUDIO CODE
 - GIT
 - GITHUB
+-js
